@@ -1,16 +1,16 @@
 # Exp-5 Develop a complete Todo application with all features.
-## AIM:
+## Aim:
 To create react app to develop a complete Todo application with all features.
-## PROCEDURE:
-### STEP 1:
+## Algorithm:
+### Step 1:
 Create react app by npm create-react-app.
-### STEP 2:
+### Step 2:
 Make changes to app.js and create new file todolist.js where the todo app works.
-### STEP 3:
+### Step 3:
 Include Style in the react using app.css and import it to todolist.js.
-### STEP 4:
+### Step 4:
 Verify the output by running the Web-Layout in any web browser. 
-## PROGRAM:
+## Program:
 ### App.css
 ```css
 .App {
@@ -192,8 +192,8 @@ const TodoList = () => {
 
 export default TodoList;
 ```
-## OUTPUT:
+## Output:
 ![image](https://github.com/Karthikeyan21001828/MERN_EX05/assets/93427303/59bb6ea9-28d9-4c78-94fe-774c49b1196f)
 
-## RESULT:
+## Result:
 React app to develop a complete Todo application with all features has been created and output has been verified.
