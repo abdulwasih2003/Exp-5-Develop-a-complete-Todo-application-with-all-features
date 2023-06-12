@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.todo-container {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.todo-title {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.todo-form {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.todo-input {
+  flex-grow: 1;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.todo-button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.todo-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  background-color: #f2f2f2;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.todo-text {
+  flex-grow: 1;
+  margin-left: 0.5rem;
+}
+
+.todo-delete {
+  color: red;
+  margin-left: 0.5rem;
+  cursor: pointer;
+}
